@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "vey-baikalos-ksu",
-      "repo": "https://github.com/Yoganataa/android_kernel_xiaomi_surya",
+      "repo": "https://github.com/kimsultech/android_kernel_xiaomi_surya",
       "branch": "13.0",
       "device": "surya",
       "defconfig": "surya_defconfig"
